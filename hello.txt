@@ -32,3 +32,4 @@ mOVING ON AANOTHER WORKITEM!!!!
 The new on is called WI-00209
 another one ok WI-00010
 let's make some other changements WI-00010
+we CANT HANDLE GITCONNECTOR :P
